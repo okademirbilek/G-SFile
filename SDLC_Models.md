@@ -4,7 +4,7 @@ Advantages of Spiral Model: Below are some of the advantages of the Spiral Model
 *Good for large projects: It is recommended to use the Spiral Model in large and complex projects.
 *Flexibility in Requirements: Change requests in the Requirements at later phase can be incorporated accurately by using this model.
 *Customer Satisfaction: Customer can see the development of the product at the early phase of the software development and thus,
-they habituated with the system by using it before completion of the total product.
+*they habituated with the system by using it before completion of the total product.
 
 Disdvantages of Spiral Model: Below are some of the main disadvantages of the spiral model.
 *Complex: The Spiral Model is much more complex than other SDLC models.
@@ -16,7 +16,6 @@ Disdvantages of Spiral Model: Below are some of the main disadvantages of the sp
 ******************************************************************************************************************************************
 Advantages of Waterfall Model:
 *Before the next phase of development, each phase must be completed
-
 *Suited for smaller projects where requirements are well defined
 *They should perform quality assurance test (Verification and Validation) before completing each stage
 *Elaborate documentation is done at every phase of the software's development cycle
